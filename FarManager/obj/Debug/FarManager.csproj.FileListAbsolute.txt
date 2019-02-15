@@ -1,0 +1,6 @@
+C:\Users\the_k\Desktop\LAB\LAB2\LAB3\FarManager\bin\Debug\FarManager.exe.config
+C:\Users\the_k\Desktop\LAB\LAB2\LAB3\FarManager\bin\Debug\FarManager.exe
+C:\Users\the_k\Desktop\LAB\LAB2\LAB3\FarManager\bin\Debug\FarManager.pdb
+C:\Users\the_k\Desktop\LAB\LAB2\LAB3\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\the_k\Desktop\LAB\LAB2\LAB3\FarManager\obj\Debug\FarManager.exe
+C:\Users\the_k\Desktop\LAB\LAB2\LAB3\FarManager\obj\Debug\FarManager.pdb
